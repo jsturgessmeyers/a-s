@@ -10,15 +10,14 @@
     <div class="jumbotron">
       <form name="form" novalidate>
         <div class="form-group">
-          <label for="searchTerms">Search Terms</label>
           <input type="text" class="form-control" ng-model="searchTerms" placeholder="Site Name, Pub Brand, Pub City, Market Area" required>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" ng-model="miscLogos"> Show miscellanous logos?
+            </label>
+          </div>
         </div>
-        <div class="checkbox">
-          <label>
-            <input type="checkbox" ng-model="miscLogos"> Show miscellanous logos?
-          </label>
-        </div>
-        <button type="button" class="btn btn-default btn-md" ng-click="reset()">
+        <button type="button" class="btn btn-danger btn-md" ng-click="reset()">
           <span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Clear
         </button>
       </form>
