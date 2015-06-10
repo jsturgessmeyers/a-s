@@ -17,11 +17,11 @@
   </div>
 
   <div class="container" ng-show="form.$valid">
-    <div class="jumbotron" ng-repeat="site in sites | siteFilter:searchTerms">
+    <div class="jumbotron" ng-repeat="site in sites | siteFilter:searchTerms | limitTo:1">
       <div class="container">
         <ul class="list-unstyled">
-          <li><strong><h2><u>{{site.PUBNAME}}</u></h2></strong></li>
-          <li><strong>Pub Brand: </strong>{{site.PUBBRAND}}</li>
+          <li><h2><strong><u>{{site.PUBNAME}}</u></strong></h2></li>
+          <li><strong>Pub Brands: </strong><span ng-repeat="site in sites | filter:site.PUBNAME">{{site.PUBBRAND}} </span></li>
           <li><strong>URL: </strong>{{site.PUBURL}}</li>
           <li><strong>Location: </strong>{{site.PUBPCITY}}, {{site.PUBSTATE}}</li>
           <li><strong>Twitter: </strong>{{site.TWITTERURL}}</li>
@@ -31,26 +31,28 @@
           <li><strong>CS Phone: </strong>{{site.CSPHONE}}</li>
           <li><strong>CS Chat: </strong>{{site.CSCHAT}}</li>
         </ul>
+        <hr>
         <ul class="list-unstyled" ng-repeat="logo in logos | filter:site.PUBBRAND">
+          <li><h4><strong><u>Logos</u></strong></h4></li>
           <li ng-show="logo.RGB">
-            <img ng-src={{logo.RGB}} /><br>{{logo.RGB}}
+            <strong>RGB:</strong> <a href="{{logo.RGB}}" target="_blank">{{logo.RGB}}</a>
           </li>
           <li ng-show="logo.K">
-            <img ng-src={{logo.K}} /><br>{{logo.K}}
+            <strong>K:</strong> <a href="{{logo.K}}" target="_blank">{{logo.K}}</a>
           </li>
           <li ng-show="logo.W">
-            <img ng-src={{logo.W}} /><br>{{logo.W}}
+            <strong>W:</strong> <a href="{{logo.W}}" target="_blank">{{logo.W}}</a>
           </li>
         </ul>
       </div>
     </div>
   </div>
-
   <div class="container" ng-show="miscLogos">
     <div class="jumbotron">
       <div class="container">
+        <h4><strong><u>Misc. Logos</u></strong></h4>
         <ul class="list-unstyled" ng-repeat="logo in logos | filter:'MISC'">
-          <li ng-repeat="img in logo.LOGOS"><img ng-src={{img}} /><br>{{img}}</li>
+          <li ng-repeat="img in logo.LOGOS"><a href="{{img}}" target="_blank">{{img}}</a></li>
         </ul>
       </div>
     </div>
