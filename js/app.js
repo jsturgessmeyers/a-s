@@ -6,6 +6,7 @@
   app.controller('SearchCtrl', function($scope, $http){
     $scope.sites = [];
     $scope.logos = [];
+    $scope.content = null;
 
     $http.get('/js/ATVAL.json')
     .success(function(data){
@@ -16,6 +17,17 @@
     .success(function(data){
       $scope.logos = data;
     });
+
+    $scope.setContent = function(data) {
+      $scope.content = data;
+    };
+
+    $scope.reset = function() {
+      $scope.searchTerms = "";
+      $scope.miscLogos = "";
+      $scope.content = null;
+      $scope.form.$setPristine();
+    };
   });
 
   // Filter to loop through sites array and pull matches

@@ -9,9 +9,18 @@
   <div class="container">
     <div class="jumbotron">
       <form name="form" novalidate>
-        <input type="text" ng-model="searchTerms" placeholder="Search Terms" required><small> (Site Name, Pub Brand, Pub City, Market Area)</small>
-        <br>
-        <input type="checkbox" ng-model="miscLogos"><small> (Check here for miscellaneous logos)</small>
+        <div class="form-group">
+          <label for="searchTerms">Search Terms</label>
+          <input type="text" class="form-control" ng-model="searchTerms" placeholder="Site Name, Pub Brand, Pub City, Market Area" required>
+        </div>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" ng-model="miscLogos"> Show miscellanous logos?
+          </label>
+        </div>
+        <button type="button" class="btn btn-default btn-sm" ng-click="reset()">
+          <span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Clear
+        </button>
       </form>
     </div>
   </div>
@@ -35,25 +44,34 @@
         <ul class="list-unstyled" ng-repeat="logo in logos | filter:site.PUBBRAND">
           <li><h4><strong><u>Logos</u></strong></h4></li>
           <li ng-show="logo.RGB">
-            <strong>RGB:</strong> <a href="{{logo.RGB}}" target="_blank">{{logo.RGB}}</a>
+            <strong>RGB:</strong> <a href="" ng-click="setContent(logo.RGB)">{{logo.RGB}}</a>
           </li>
           <li ng-show="logo.K">
-            <strong>K:</strong> <a href="{{logo.K}}" target="_blank">{{logo.K}}</a>
+            <strong>K:</strong> <a href="" ng-click="setContent(logo.K)">{{logo.K}}</a>
           </li>
           <li ng-show="logo.W">
-            <strong>W:</strong> <a href="{{logo.W}}" target="_blank">{{logo.W}}</a>
+            <strong>W:</strong> <a href="" ng-click="setContent(logo.W)">{{logo.W}}</a>
           </li>
         </ul>
       </div>
     </div>
   </div>
+
   <div class="container" ng-show="miscLogos">
     <div class="jumbotron">
       <div class="container">
         <h4><strong><u>Misc. Logos</u></strong></h4>
         <ul class="list-unstyled" ng-repeat="logo in logos | filter:'MISC'">
-          <li ng-repeat="img in logo.LOGOS"><a href="{{img}}" target="_blank">{{img}}</a></li>
+          <li ng-repeat="img in logo.LOGOS"><a href="" ng-click="setContent(img)">{{img}}</a></li>
         </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container" ng-show="content">
+    <div class="jumbotron">
+      <div class="container">
+        <img src="{{content}}" alt="logo" />
       </div>
     </div>
   </div>
