@@ -22,31 +22,57 @@
       $scope.content = data;
     };
 
+    // Resets the form
     $scope.reset = function() {
       $scope.searchTerms = "";
+      $scope.customTerms = "";
       $scope.miscLogos = "";
       $scope.content = null;
       $scope.form.$setPristine();
+    };
+
+    $scope.dataType = function(data) {
+      return typeof data;
     };
   });
 
   // Filter to loop through sites array and pull matches
   app.filter('siteFilter', function() {
     return function(arr, searchTerms) {
+      var siteResult = [];
+      searchTerms = searchTerms.toLowerCase();
+
       if (!searchTerms) {
         return arr;
       }
 
-      var result = [];
-      searchTerms = searchTerms.toLowerCase();
-
       angular.forEach(arr, function(v, k) {
         if (v.PUBNAME.toLowerCase().indexOf(searchTerms) !== -1 || v.PUBBRAND.toLowerCase().indexOf(searchTerms) !== -1 || v.PUBPCITY.toLowerCase().indexOf(searchTerms) !== -1 || v.MARKETAREA.toLowerCase().indexOf(searchTerms) !== -1) {
-          result.push(v);
+          siteResult.push(v);
         }
       });
 
-      return result;
+      return siteResult;
     };
   });
+
+  app.filter('customFilter', function() {
+    return function(arr, customTerms) {
+      var customResult = [];
+      customTerms = customTerms.toLowerCase();
+
+      if (!customTerms) {
+        return arr;
+      }
+
+      angular.forEach(arr, function(v, k) {
+        if (k.toLowerCase().indexOf(customTerms) !== -1) {
+          customResult.push(k + ': ' + v);
+        }
+      });
+
+      return customResult;
+    };
+  });
+
 })();

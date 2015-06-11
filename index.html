@@ -9,27 +9,62 @@
 </head>
 <body ng-controller="SearchCtrl" ng-cloak>
 
-  <div class="container">
-    <div class="jumbotron">
+  <div class="jumbotron">
+    <div class="container">
       <form name="form" novalidate>
+
+        <!-- Input field for site and checkbox for misc. logos -->
         <div class="form-group">
           <input type="text" class="form-control" ng-model="searchTerms" placeholder="Site Name, Pub Brand, Pub City, Market Area" required>
+        </div><!-- /Input field -->
+
+        <!-- Input field for other ATVAL data -->
+        <div class="form-group">
+          <input type="text" class="form-control" ng-model="customTerms" placeholder="Other fields in ATVAL (LOCKUP, etc.)" ng-disabled="!searchTerms">
+        </div><!-- /Input field -->
+
+        <!-- Checkbox for misc. logos -->
+        <div class="form-group">
           <div class="checkbox">
             <label>
               <input type="checkbox" ng-model="miscLogos"> Show miscellanous logos?
             </label>
           </div>
-        </div>
+        </div><!-- /Checkbox -->
+
+        <!-- Button to clear the form -->
         <button type="button" class="btn btn-danger btn-md" ng-click="reset()">
           <span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Clear
-        </button>
+        </button><!-- /Button -->
       </form>
     </div>
   </div>
 
+  <div class="container" ng-show="miscLogos">
+    <div class="col-md-12">
+      <div class="row">
+        <h4><strong><u>Misc. Logos</u></strong></h4>
+        <ul class="list-unstyled" ng-repeat="logo in logos | filter:'MISC'">
+          <li ng-repeat="img in logo.LOGOS"><a href="" ng-click="setContent(img)">{{img}}</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Conditional horizontal rule -->
+  <div class="container">
+    <div class="col-md-12">
+      <div class="row">
+        <hr ng-show="miscLogos && form.$valid || miscLogos && content">
+      </div>
+    </div>
+  </div><!-- /hr -->
+
   <div class="container" ng-show="form.$valid">
-    <div class="jumbotron" ng-repeat="site in sites | siteFilter:searchTerms | limitTo:1">
-      <div class="container">
+    <div class="col-md-12" ng-repeat="site in sites | siteFilter:searchTerms | limitTo:1">
+      <div class="row">
+
+        <!-- UL for ATVAL data -->
         <ul class="list-unstyled">
           <li><h2><strong><u>{{site.PUBNAME}}</u></strong></h2></li>
           <li><strong>Pub Brands: </strong><span ng-repeat="site in sites | filter:site.PUBNAME">{{site.PUBBRAND}} </span></li>
@@ -41,8 +76,21 @@
           <li><strong>CS Email: </strong>{{site.CSEMAIL}}</li>
           <li><strong>CS Phone: </strong>{{site.CSPHONE}}</li>
           <li><strong>CS Chat: </strong>{{site.CSCHAT}}</li>
-        </ul>
-        <hr>
+
+          <!-- Loop to display other properties from ATVAL -->
+          <li ng-show="customTerms.length">
+            <hr>
+            <ul class="list-unstyled">
+              <li ><h4><strong><u>Additional ATVAL fields</u></strong></h4></li>
+              <li ng-repeat="prop in site | customFilter:customTerms" ng-bind-html="prop">{{prop}}</li>
+            </ul>
+            <hr>
+          </li><!-- /Loop -->
+
+        </ul><!-- /ATVAL UL -->
+      </div>
+      <div class="row">
+        <!-- UL for site logos -->
         <ul class="list-unstyled" ng-repeat="logo in logos | filter:site.PUBBRAND">
           <li><h4><strong><u>Logos</u></strong></h4></li>
           <li ng-show="logo.RGB">
@@ -54,29 +102,28 @@
           <li ng-show="logo.W">
             <strong>W:</strong> <a href="" ng-click="setContent(logo.W)">{{logo.W}}</a>
           </li>
-        </ul>
+        </ul><!-- /Logos UL -->
       </div>
     </div>
   </div>
 
-  <div class="container" ng-show="miscLogos">
-    <div class="jumbotron">
-      <div class="container">
-        <h4><strong><u>Misc. Logos</u></strong></h4>
-        <ul class="list-unstyled" ng-repeat="logo in logos | filter:'MISC'">
-          <li ng-repeat="img in logo.LOGOS"><a href="" ng-click="setContent(img)">{{img}}</a></li>
-        </ul>
+  <!-- Conditional horizontal rule -->
+  <div class="container">
+    <div class="col-md-12">
+      <div class="row">
+        <hr ng-show="content && !miscLogos || content && form.$valid">
       </div>
     </div>
-  </div>
+  </div><!-- /hr -->
 
+  <!-- Preview all logos -->
   <div class="container" ng-show="content">
-    <div class="jumbotron">
-      <div class="container">
+    <div class="col-md-6 col-md-offset-3">
+      <div class="jumbotron text-center">
         <img src="{{content}}" alt="logo" />
       </div>
     </div>
-  </div>
+  </div><!-- /Logo preview -->
 
 
 <!-- Stylesheets -->
