@@ -26,6 +26,7 @@
     $scope.reset = function() {
       $scope.searchTerms = "";
       $scope.customTerms = "";
+      $scope.showATVAL = "";
       $scope.miscLogos = "";
       $scope.content = null;
       $scope.form.$setPristine();
