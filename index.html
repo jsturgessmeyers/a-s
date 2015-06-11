@@ -27,7 +27,12 @@
         <div class="form-group">
           <div class="checkbox">
             <label>
-              <input type="checkbox" ng-model="miscLogos"> Show miscellanous logos?
+              <input type="checkbox" ng-model="showATVAL" ng-disabled="!searchTerms"> Show all ATVAL data?
+            </label>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" ng-model="miscLogos"> Show misc. logos?
             </label>
           </div>
         </div><!-- /Checkbox -->
@@ -82,10 +87,20 @@
             <hr>
             <ul class="list-unstyled">
               <li ><h4><strong><u>Additional ATVAL fields</u></strong></h4></li>
-              <li ng-repeat="prop in site | customFilter:customTerms" ng-bind-html="prop">{{prop}}</li>
+              <li ng-repeat="prop in site | customFilter:customTerms">{{prop}}</li>
             </ul>
             <hr>
-          </li><!-- /Loop -->
+          </li><!-- /First loop -->
+
+          <!-- Loop to display ALL ATVAL data -->
+          <li ng-show="showATVAL && searchTerms && !customTerms.length">
+            <hr>
+            <ul class="list-unstyled">
+              <li ><h4><strong><u>All ATVAL fields</u></strong></h4></li>
+              <li ng-repeat="(k, v) in site"><strong>{{k}}:</strong> {{v}}</li>
+            </ul>
+            <hr>
+          </li><!-- /Second loop -->
 
         </ul><!-- /ATVAL UL -->
       </div>
