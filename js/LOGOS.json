@@ -1,0 +1,1253 @@
+[
+    {
+        "PUBBRAND": "1008WD00",
+        "PUBNAME": "",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1008WP00",
+        "PUBNAME": "",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1141AD00",
+        "PUBNAME": "",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "9999GN00",
+        "PUBNAME": "",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1085AL00",
+        "PUBNAME": "Argus Leader Media",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/AL_argusLeader_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/AL_argusLeader_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/AL_argusLeader_W.png"
+    },
+    {
+        "PUBBRAND": "1085DA00",
+        "PUBNAME": "Argus Leader Media",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/AL_argusLeader_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/AL_argusLeader_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/AL_argusLeader_W.png"
+    },
+    {
+        "PUBBRAND": "1087AM00",
+        "PUBNAME": "Arizona Daily Star",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1087PM00",
+        "PUBNAME": "Arizona Daily Star",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1171AP00",
+        "PUBNAME": "Asbury Park Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/AP_asburyPressHoriz_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/AP_asburyPressHoriz_KW.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/AP_asburyPressHoriz_W.png"
+    },
+    {
+        "PUBBRAND": "1171DA00",
+        "PUBNAME": "Asbury Park Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/AP_asburyPressHoriz_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/AP_asburyPressHoriz_KW.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/AP_asburyPressHoriz_W.png"
+    },
+    {
+        "PUBBRAND": "1051ED00",
+        "PUBNAME": "Battle Creek Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EN_battleCreek_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EN_battleCreek_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EN_battleCreek_W.png"
+    },
+    {
+        "PUBBRAND": "1051EN00",
+        "PUBNAME": "Battle Creek Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EN_battleCreek_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EN_battleCreek_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EN_battleCreek_W.png"
+    },
+    {
+        "PUBBRAND": "1010DF00",
+        "PUBNAME": "Burlington Free Press",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/FP_burlingtonFreePress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FP_burlingtonFreePress_W.png"
+    },
+    {
+        "PUBBRAND": "1010FP00",
+        "PUBNAME": "Burlington Free Press",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/FP_burlingtonFreePress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FP_burlingtonFreePress_W.png"
+    },
+    {
+        "PUBBRAND": "1019CG00",
+        "PUBNAME": "Chillicothe Gazette",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CG_chillicotheGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CG_chillicotheGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1019OG00",
+        "PUBNAME": "Chillicothe Gazette",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CG_chillicotheGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CG_chillicotheGazette_W.png"
+    },
+    {
+        "PUBBRAND": "8888EQ00",
+        "PUBNAME": "Cincinnati Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EQ_cincyEnquirer_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_cincyEnquirer_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_cincyEnquirer_W.png"
+    },
+    {
+        "PUBBRAND": "1122CD00",
+        "PUBNAME": "Citizen-Times",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CT_citizenTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CT_citizenTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1122CT00",
+        "PUBNAME": "Citizen-Times",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CT_citizenTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CT_citizenTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1019CT00",
+        "PUBNAME": "Coshocton Tribune",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CT_coshoctonTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CT_coshoctonTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1019OC00",
+        "PUBNAME": "Coshocton Tribune",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CT_coshoctonTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CT_coshoctonTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1065CN00",
+        "PUBNAME": "Courier News",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/CN_courierNews_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CN_courierNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CN_courierNews_W.png"
+    },
+    {
+        "PUBBRAND": "1065DC00",
+        "PUBNAME": "Courier News",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/CN_courierNews_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CN_courierNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CN_courierNews_W.png"
+    },
+    {
+        "PUBBRAND": "1013CP00",
+        "PUBNAME": "Courier-Post",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CP_courierPost_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CP_courierPost_W.png"
+    },
+    {
+        "PUBBRAND": "1013DC00",
+        "PUBNAME": "Courier-Post",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CP_courierPost_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CP_courierPost_W.png"
+    },
+    {
+        "PUBBRAND": "1174DD00",
+        "PUBNAME": "Daily Record",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/DR_dailyRecord_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DR_dailyRecord_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DR_dailyRecord_W.png"
+    },
+    {
+        "PUBBRAND": "1174DR00",
+        "PUBNAME": "Daily Record",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/DR_dailyRecord_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DR_dailyRecord_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DR_dailyRecord_W.png"
+    },
+    {
+        "PUBBRAND": "1014WR00",
+        "PUBNAME": "Daily Tribune",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/WR_dailyTribune_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/WR_dailyTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/WR_dailyTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZR00",
+        "PUBNAME": "Daily Tribune",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/WR_dailyTribune_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/WR_dailyTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/WR_dailyTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1040DW00",
+        "PUBNAME": "Daily World",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DW_dailyWorld_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DW_dailyWorld_W.png"
+    },
+    {
+        "PUBBRAND": "1040OW00",
+        "PUBNAME": "Daily World",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DW_dailyWorld_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DW_dailyWorld_W.png"
+    },
+    {
+        "PUBBRAND": "1070DA00",
+        "PUBNAME": "Democrat and Chronicle",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DC_democratAndChronicle_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DC_democratAndChronicle_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DC_democratAndChronicle_W.png"
+    },
+    {
+        "PUBBRAND": "1070DC00",
+        "PUBNAME": "Democrat and Chronicle",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DC_democratAndChronicle_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DC_democratAndChronicle_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DC_democratAndChronicle_W.png"
+    },
+    {
+        "PUBBRAND": "1150DA00",
+        "PUBNAME": "Des Moines Register",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DM_desMoinesRegister_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DM_desMoinesRegister_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DM_desMoinesRegister_W.png"
+    },
+    {
+        "PUBBRAND": "1008FP00",
+        "PUBNAME": "Detroit Free Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/FP_detroitFreePress_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/FP_detroitFreePress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FP_detroitFreePress_W.png"
+    },
+    {
+        "PUBBRAND": "1028FT00",
+        "PUBNAME": "FLORIDA TODAY",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/FT_floridaToday_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/FT_floridaToday_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FT_floridaToday_W.png"
+    },
+    {
+        "PUBBRAND": "1028WA00",
+        "PUBNAME": "FLORIDA TODAY",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/FT_floridaToday_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/FT_floridaToday_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FT_floridaToday_W.png"
+    },
+    {
+        "PUBBRAND": "1021CO00",
+        "PUBNAME": "Fort Collins Coloradoan",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CO_coloradoan_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CO_coloradoan_W.png"
+    },
+    {
+        "PUBBRAND": "1021DA00",
+        "PUBNAME": "Fort Collins Coloradoan",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CO_coloradoan_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CO_coloradoan_W.png"
+    },
+    {
+        "PUBBRAND": "1019GS00",
+        "PUBNAME": "Granville Sentinel",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1094DA00",
+        "PUBNAME": "Great Falls Tribune",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/GF_greatFallsTribune_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/GF_greatFallsTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/GF_greatFallsTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1094GF00",
+        "PUBNAME": "Great Falls Tribune",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/GF_greatFallsTribune_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/GF_greatFallsTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/GF_greatFallsTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1014PG00",
+        "PUBNAME": "Green Bay Press-Gazette",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PG_pressGazette_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PG_pressGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PG_pressGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZG00",
+        "PUBNAME": "Green Bay Press-Gazette",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PG_pressGazette_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PG_pressGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PG_pressGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1098HA00",
+        "PUBNAME": "Hattiesburg American",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/HA_hattiesburgAmerican_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/HA_hattiesburgAmerican_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/HA_hattiesburgAmerican_W.png"
+    },
+    {
+        "PUBBRAND": "1098HD00",
+        "PUBNAME": "Hattiesburg American",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/HA_hattiesburgAmerican_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/HA_hattiesburgAmerican_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/HA_hattiesburgAmerican_W.png"
+    },
+    {
+        "PUBBRAND": "1014HR00",
+        "PUBNAME": "Herald Times Reporter",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/HR_heraldTimesReporter_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/HR_heraldTimesReporter_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/HR_heraldTimesReporter_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZM00",
+        "PUBNAME": "Herald Times Reporter",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/HR_heraldTimesReporter_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/HR_heraldTimesReporter_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/HR_heraldTimesReporter_W.png"
+    },
+    {
+        "PUBBRAND": "1171DH00",
+        "PUBNAME": "Home News Tribune",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/HN_homeNewsTribune_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/HN_homeNewsTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/HN_homeNewsTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1171HN00",
+        "PUBNAME": "Home News Tribune",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/HN_homeNewsTribune_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/HN_homeNewsTribune_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/HN_homeNewsTribune_W.png"
+    },
+    {
+        "PUBBRAND": "1033DP00",
+        "PUBNAME": "Iowa City Press-Citizen",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PC_pressCitizen_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PC_pressCitizen_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PC_pressCitizen_W.png"
+    },
+    {
+        "PUBBRAND": "1033DR00",
+        "PUBNAME": "Iowa City Press-Citizen",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PC_pressCitizen_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PC_pressCitizen_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PC_pressCitizen_W.png"
+    },
+    {
+        "PUBBRAND": "1033PC00",
+        "PUBNAME": "Iowa City Press-Citizen",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PC_pressCitizen_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PC_pressCitizen_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PC_pressCitizen_W.png"
+    },
+    {
+        "PUBBRAND": "1532JC00",
+        "PUBNAME": "Journal & Courier",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/JC_journalAndCourier_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/JC_journalAndCourier_W.png"
+    },
+    {
+        "PUBBRAND": "1532LC00",
+        "PUBNAME": "Journal & Courier",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/JC_journalAndCourier_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/JC_journalAndCourier_W.png"
+    },
+    {
+        "PUBBRAND": "8888KY00",
+        "PUBNAME": "Kentucky Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EQ_kentuckyEnquirer_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_kentuckyEnquirer_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_kentuckyEnquirer_W.png"
+    },
+    {
+        "PUBBRAND": "1019LE00",
+        "PUBNAME": "Lancaster Eagle-Gazette",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/LE_lancasterEagleGazette_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/LE_lancasterEagleGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/LE_lancasterEagleGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1019OL00",
+        "PUBNAME": "Lancaster Eagle-Gazette",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/LE_lancasterEagleGazette_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/LE_lancasterEagleGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/LE_lancasterEagleGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1051SD00",
+        "PUBNAME": "Lansing State Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_lansingStateJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/SJ_lansingStateJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SJ_lansingStateJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1051SJ00",
+        "PUBNAME": "Lansing State Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_lansingStateJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/SJ_lansingStateJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SJ_lansingStateJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1008PA00",
+        "PUBNAME": "Livingston Daily Press & Argus",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1014MN00",
+        "PUBNAME": "Marshfield News-Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/MN_newsHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/MN_newsHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MN_newsHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZN00",
+        "PUBNAME": "Marshfield News-Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/MN_newsHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/MN_newsHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MN_newsHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1123DA00",
+        "PUBNAME": "Montgomery Advertiser",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/MA_montgomeryAdvertiser_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MA_montgomeryAdvertiser_W.png"
+    },
+    {
+        "PUBBRAND": "1123MA00",
+        "PUBNAME": "Montgomery Advertiser",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/MA_montgomeryAdvertiser_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MA_montgomeryAdvertiser_W.png"
+    },
+    {
+        "PUBBRAND": "1019OP00",
+        "PUBNAME": "News Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PH_newsHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PH_newsHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PH_newsHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1019PH00",
+        "PUBNAME": "News Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PH_newsHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PH_newsHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PH_newsHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1019MN00",
+        "PUBNAME": "News Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/MN_newsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MN_newsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1019OM00",
+        "PUBNAME": "News Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/MN_newsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MN_newsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1125DP00",
+        "PUBNAME": "News Leader",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NL_theNewsLeader_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NL_theNewsLeader_W.png"
+    },
+    {
+        "PUBBRAND": "1125NL00",
+        "PUBNAME": "News Leader",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NL_theNewsLeader_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NL_theNewsLeader_W.png"
+    },
+    {
+        "PUBBRAND": "1014ON00",
+        "PUBNAME": "Oshkosh Northwestern",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/ON_oshkoshNorthwestern_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/ON_oshkoshNorthwestern_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/ON_oshkoshNorthwestern_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZO00",
+        "PUBNAME": "Oshkosh Northwestern",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/ON_oshkoshNorthwestern_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/ON_oshkoshNorthwestern_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/ON_oshkoshNorthwestern_W.png"
+    },
+    {
+        "PUBBRAND": "1030DN00",
+        "PUBNAME": "Pacific Daily News",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1532PI00",
+        "PUBNAME": "Palladium-Item",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/PI_palladiumItem_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PI_palladiumItem_W.png"
+    },
+    {
+        "PUBBRAND": "1532RD00",
+        "PUBNAME": "Palladium-Item",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/PI_palladiumItem_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PI_palladiumItem_W.png"
+    },
+    {
+        "PUBBRAND": "1063ND00",
+        "PUBNAME": "Pensacola News Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/NJ_pensacolaNewsJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/NJ_pensacolaNewsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NJ_pensacolaNewsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1063NJ00",
+        "PUBNAME": "Pensacola News Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/NJ_pensacolaNewsJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/NJ_pensacolaNewsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NJ_pensacolaNewsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1066DA00",
+        "PUBNAME": "Poughkeepsie Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/PJ_poughkeepsieJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PJ_poughkeepsieJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1066PJ00",
+        "PUBNAME": "Poughkeepsie Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/PJ_poughkeepsieJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PJ_poughkeepsieJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1007DP00",
+        "PUBNAME": "Press & Sun-Bulletin",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/PS_pressAndSun_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PS_pressAndSun_W.png"
+    },
+    {
+        "PUBBRAND": "1007PS00",
+        "PUBNAME": "Press & Sun-Bulletin",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/PS_pressAndSun_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PS_pressAndSun_W.png"
+    },
+    {
+        "PUBBRAND": "1011DA00",
+        "PUBNAME": "Reno Gazette-Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/GJ_renoGazetteJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/4/GJ_renoGazetteJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1011GJ00",
+        "PUBNAME": "Reno Gazette-Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/GJ_renoGazetteJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/4/GJ_renoGazetteJournal_W.png"
+    },
+    {
+        "PUBBRAND": "8872BW00",
+        "PUBNAME": "Sports Weekly",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1042NL00",
+        "PUBNAME": "Springfield News-Leader",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NL_springfieldNewsLeader_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NL_springfieldNewsLeader_W.png"
+    },
+    {
+        "PUBBRAND": "1042WA00",
+        "PUBNAME": "Springfield News-Leader",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NL_springfieldNewsLeader_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NL_springfieldNewsLeader_W.png"
+    },
+    {
+        "PUBBRAND": "1076DA00",
+        "PUBNAME": "St. Cloud Times",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SC_stCloudTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SC_stCloudTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1076SC00",
+        "PUBNAME": "St. Cloud Times",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SC_stCloudTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SC_stCloudTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1007DS00",
+        "PUBNAME": "Star-Gazette",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SG_starGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SG_starGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1007SG00",
+        "PUBNAME": "Star-Gazette",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SG_starGazette_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SG_starGazette_W.png"
+    },
+    {
+        "PUBBRAND": "1074DA00",
+        "PUBNAME": "Statesman Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_statesmanJournal_RBG.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_statesmanJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_statesmanJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1074SJ00",
+        "PUBNAME": "Statesman Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_statesmanJournal_RBG.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_statesmanJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/4/SJ_statesmanJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1014SP00",
+        "PUBNAME": "Stevens Point Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SP_stevensPointJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/SP_stevensPointJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_stevensPointJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZP00",
+        "PUBNAME": "Stevens Point Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SP_stevensPointJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/SP_stevensPointJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_stevensPointJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1558TD00",
+        "PUBNAME": "Tallahassee Democrat",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TD_tallahasseeDemocrat_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TD_tallahasseeDemocrat_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TD_tallahasseeDemocrat_W.png"
+    },
+    {
+        "PUBBRAND": "1558WA00",
+        "PUBNAME": "Tallahassee Democrat",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TD_tallahasseeDemocrat_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TD_tallahasseeDemocrat_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TD_tallahasseeDemocrat_W.png"
+    },
+    {
+        "PUBBRAND": "1019BT00",
+        "PUBNAME": "Telegraph-Forum",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/BT_telegraphForum_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/BT_telegraphForum_W.png"
+    },
+    {
+        "PUBBRAND": "1019OB00",
+        "PUBNAME": "Telegraph-Forum",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/BT_telegraphForum_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/BT_telegraphForum_W.png"
+    },
+    {
+        "PUBBRAND": "1019NA00",
+        "PUBNAME": "The Advocate",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NA_theAdvocate_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NA_theAdvocate_W.png"
+    },
+    {
+        "PUBBRAND": "1019ON00",
+        "PUBNAME": "The Advocate",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NA_theAdvocate_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NA_theAdvocate_W.png"
+    },
+    {
+        "PUBBRAND": "1531AR00",
+        "PUBNAME": "The Arizona Republic",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/6/AR_arizonaRepublicStars_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/6/AR_arizonaRepublicStars_W.png"
+    },
+    {
+        "PUBBRAND": "1531DA00",
+        "PUBNAME": "The Arizona Republic",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/6/AR_arizonaRepublicStars_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/6/AR_arizonaRepublicStars_W.png"
+    },
+    {
+        "PUBBRAND": "1136BB00",
+        "PUBNAME": "The Baxter Bulletin",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/BB_baxterBulletin_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/BB_baxterBulletin_W.png"
+    },
+    {
+        "PUBBRAND": "1136WA00",
+        "PUBNAME": "The Baxter Bulletin",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/BB_baxterBulletin_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/BB_baxterBulletin_W.png"
+    },
+    {
+        "PUBBRAND": "1098CD00",
+        "PUBNAME": "The Clarion-Ledger",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/CL_clarionLedger_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/CL_clarionLedger_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CL_clarionLedger_W.png"
+    },
+    {
+        "PUBBRAND": "1098CL00",
+        "PUBNAME": "The Clarion-Ledger",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/CL_clarionLedger_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/CL_clarionLedger_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CL_clarionLedger_W.png"
+    },
+    {
+        "PUBBRAND": "1107CJ00",
+        "PUBNAME": "The Courier-Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CJ_courierJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CJ_courierJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1107DG00",
+        "PUBNAME": "The Courier-Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/CJ_courierJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/CJ_courierJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1040DA00",
+        "PUBNAME": "The Daily Advertiser",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DA_dailyAdvertiser_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DA_dailyAdvertiser_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DA_dailyAdvertiser_W.png"
+    },
+    {
+        "PUBBRAND": "1040OA00",
+        "PUBNAME": "The Daily Advertiser",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DA_dailyAdvertiser_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DA_dailyAdvertiser_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DA_dailyAdvertiser_W.png"
+    },
+    {
+        "PUBBRAND": "1106DJ00",
+        "PUBNAME": "The Daily Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DJ_dailyJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DJ_dailyJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1106DV00",
+        "PUBNAME": "The Daily Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DJ_dailyJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DJ_dailyJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1056DJ00",
+        "PUBNAME": "The Daily News Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DNJ_dailyNewsJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DNJ_dailyNewsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DNJ_dailyNewsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1056NJ00",
+        "PUBNAME": "The Daily News Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DNJ_dailyNewsJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DNJ_dailyNewsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DNJ_dailyNewsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1528DG00",
+        "PUBNAME": "The Daily Times",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DT_delmarvaDailyTimes_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DT_delmarvaDailyTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DT_delmarvaDailyTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1528DT00",
+        "PUBNAME": "The Daily Times",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DT_delmarvaDailyTimes_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DT_delmarvaDailyTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DT_delmarvaDailyTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1150DM00",
+        "PUBNAME": "The Des Moines Register",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DM_desMoinesRegister_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DM_desMoinesRegister_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DM_desMoinesRegister_W.png"
+    },
+    {
+        "PUBBRAND": "1082DS00",
+        "PUBNAME": "The Desert Sun",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DS_desertSun_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/4/DS_desertSun_W.png"
+    },
+    {
+        "PUBBRAND": "1082ME00",
+        "PUBNAME": "The Desert Sun",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/DS_desertSun_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/4/DS_desertSun_W.png"
+    },
+    {
+        "PUBBRAND": "1008DN00",
+        "PUBNAME": "The Detroit News",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/DN_detroitNews_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DN_detroitNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DN_detroitNews_W.png"
+    },
+    {
+        "PUBBRAND": "1019EQKY",
+        "PUBNAME": "The Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EQ_theEnquirer_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_theEnquirer_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_theEnquirer_W.png"
+    },
+    {
+        "PUBBRAND": "1019EQOH",
+        "PUBNAME": "The Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EQ_theEnquirer_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_theEnquirer_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_theEnquirer_W.png"
+    },
+    {
+        "PUBBRAND": "1019FA00",
+        "PUBNAME": "The Enquirer",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/EQ_theEnquirer_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_theEnquirer_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/EQ_theEnquirer_W.png"
+    },
+    {
+        "PUBBRAND": "1120GN00",
+        "PUBNAME": "The Greenville News",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/GN_greenvilleNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/GN_greenvilleNews_W.png"
+    },
+    {
+        "PUBBRAND": "1120WA00",
+        "PUBNAME": "The Greenville News",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/GN_greenvilleNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/GN_greenvilleNews_W.png"
+    },
+    {
+        "PUBBRAND": "1532IC00",
+        "PUBNAME": "The Indianapolis Star",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/IS_indyStar_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/IS_indyStar_W.png"
+    },
+    {
+        "PUBBRAND": "1532IS00",
+        "PUBNAME": "The Indianapolis Star",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/IS_indyStar_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/IS_indyStar_W.png"
+    },
+    {
+        "PUBBRAND": "1007DI00",
+        "PUBNAME": "The Ithaca Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/IJ_ithacaJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/IJ_ithacaJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1007IJ00",
+        "PUBNAME": "The Ithaca Journal",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/IJ_ithacaJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/IJ_ithacaJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1056JD00",
+        "PUBNAME": "The Jackson Sun",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/JS_jacksonSun_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/JS_jacksonSun_W.png"
+    },
+    {
+        "PUBBRAND": "1056JS00",
+        "PUBNAME": "The Jackson Sun",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/JS_jacksonSun_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/JS_jacksonSun_W.png"
+    },
+    {
+        "PUBBRAND": "1084DA00",
+        "PUBNAME": "The Journal News",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/WT_theJournalNews_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/WT_theJournalNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/WT_theJournalNews_W.png"
+    },
+    {
+        "PUBBRAND": "1084WT00",
+        "PUBNAME": "The Journal News",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/WT_theJournalNews_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/WT_theJournalNews_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/WT_theJournalNews_W.png"
+    },
+    {
+        "PUBBRAND": "1056DL00",
+        "PUBNAME": "The Leaf-Chronicle",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/LC_leafChronicle_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/LC_leafChronicle_W.png"
+    },
+    {
+        "PUBBRAND": "1056LC00",
+        "PUBNAME": "The Leaf-Chronicle",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/LC_leafChronicle_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/LC_leafChronicle_W.png"
+    },
+    {
+        "PUBBRAND": "1019MS00",
+        "PUBNAME": "The Marion Star",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/MS_marionStar_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MS_marionStar_W.png"
+    },
+    {
+        "PUBBRAND": "1019OS00",
+        "PUBNAME": "The Marion Star",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/MS_marionStar_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/MS_marionStar_W.png"
+    },
+    {
+        "PUBBRAND": "1052DA00",
+        "PUBNAME": "The News Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/M_theNewsJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/M_theNewsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/M_theNewsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1052M_00",
+        "PUBNAME": "The News Journal",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/M_theNewsJournal_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/M_theNewsJournal_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/M_theNewsJournal_W.png"
+    },
+    {
+        "PUBBRAND": "1019FM00",
+        "PUBNAME": "The News-Messenger",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/FM_newsMessenger_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FM_newsMessenger_W.png"
+    },
+    {
+        "PUBBRAND": "1019OF00",
+        "PUBNAME": "The News-Messenger",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/FM_newsMessenger_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/FM_newsMessenger_W.png"
+    },
+    {
+        "PUBBRAND": "1026AA00",
+        "PUBNAME": "The News-Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/NP_theNewsPressMGv2_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/NP_theNewsPressMGv2_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NP_theNewsPressMGv2_W.png"
+    },
+    {
+        "PUBBRAND": "1026NP00",
+        "PUBNAME": "The News-Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/NP_theNewsPressMGv2_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/NP_theNewsPressMGv2_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NP_theNewsPressMGv2_W.png"
+    },
+    {
+        "PUBBRAND": "1040AN00",
+        "PUBNAME": "The News-Star",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NS_theNewsStar_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NS_theNewsStar_W.png"
+    },
+    {
+        "PUBBRAND": "1040NS00",
+        "PUBNAME": "The News-Star",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/NS_theNewsStar_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/NS_theNewsStar_W.png"
+    },
+    {
+        "PUBBRAND": "1014PC00",
+        "PUBNAME": "The Post-Crescent",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PC_postCrescent_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PC_postCrescent_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PC_postCrescent_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZA00",
+        "PUBNAME": "The Post-Crescent",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/PC_postCrescent_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/PC_postCrescent_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/PC_postCrescent_W.png"
+    },
+    {
+        "PUBBRAND": "1014TR00",
+        "PUBNAME": "The Reporter",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TR_theReporterLogo_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/TR_theReporterLogo_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TR_theReporterLogo_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZF00",
+        "PUBNAME": "The Reporter",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TR_theReporterLogo_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/TR_theReporterLogo_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TR_theReporterLogo_W.png"
+    },
+    {
+        "PUBBRAND": "1078CA00",
+        "PUBNAME": "The Salinas Californian",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SC_californian_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SC_californian_W.png"
+    },
+    {
+        "PUBBRAND": "1078SC00",
+        "PUBNAME": "The Salinas Californian",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SC_californian_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SC_californian_W.png"
+    },
+    {
+        "PUBBRAND": "1014SH00",
+        "PUBNAME": "The Sheboygan Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SP_sheboyganPress_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/SP_sheboyganPress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_sheboyganPress_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZS00",
+        "PUBNAME": "The Sheboygan Press",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/SP_sheboyganPress_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/SP_sheboyganPress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_sheboyganPress_W.png"
+    },
+    {
+        "PUBBRAND": "1530SP00",
+        "PUBNAME": "The Spectrum",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SP_theSpectrum_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_theSpectrum_W.png"
+    },
+    {
+        "PUBBRAND": "1530WA00",
+        "PUBNAME": "The Spectrum",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SP_theSpectrum_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_theSpectrum_W.png"
+    },
+    {
+        "PUBBRAND": "1532MC00",
+        "PUBNAME": "The Star Press",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SP_theStarPress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_theStarPress_W.png"
+    },
+    {
+        "PUBBRAND": "1532SP00",
+        "PUBNAME": "The Star Press",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/SP_theStarPress_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/SP_theStarPress_W.png"
+    },
+    {
+        "PUBBRAND": "1056DP00",
+        "PUBNAME": "The Tennessean",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TN_tennessean_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TN_tennessean_W.png"
+    },
+    {
+        "PUBBRAND": "1056TN00",
+        "PUBNAME": "The Tennessean",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TN_tennessean_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TN_tennessean_W.png"
+    },
+    {
+        "PUBBRAND": "1040AS00",
+        "PUBNAME": "The Times",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/ST_theTimes_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/ST_theTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/ST_theTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1040ST00",
+        "PUBNAME": "The Times",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/ST_theTimes_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/ST_theTimes_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/ST_theTimes_W.png"
+    },
+    {
+        "PUBBRAND": "1040OT00",
+        "PUBNAME": "The Town Talk",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TT_townTalk_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TT_townTalk_W.png"
+    },
+    {
+        "PUBBRAND": "1040TT00",
+        "PUBNAME": "The Town Talk",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TT_townTalk_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TT_townTalk_W.png"
+    },
+    {
+        "PUBBRAND": "1051TD00",
+        "PUBNAME": "Times Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TH_timesHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/TH_timesHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TH_timesHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1051TH00",
+        "PUBNAME": "Times Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TH_timesHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/TH_timesHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TH_timesHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1019OZ00",
+        "PUBNAME": "Times Recorder",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/ZT_timesRecorder_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/ZT_timesRecorder_W.png"
+    },
+    {
+        "PUBBRAND": "1019ZT00",
+        "PUBNAME": "Times Recorder",
+        "RGB": "",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/ZT_timesRecorder_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/ZT_timesRecorder_W.png"
+    },
+    {
+        "PUBBRAND": "1089AA00",
+        "PUBNAME": "Tulare Advance-Register",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/AR_tulareAdvanceRegister_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/AR_tulareAdvanceRegister_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/AR_tulareAdvanceRegister_W.png"
+    },
+    {
+        "PUBBRAND": "1089AR00",
+        "PUBNAME": "Tulare Advance-Register",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/5/AR_tulareAdvanceRegister_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/AR_tulareAdvanceRegister_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/AR_tulareAdvanceRegister_W.png"
+    },
+    {
+        "PUBBRAND": "8872EE00",
+        "PUBNAME": "USA TODAY",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "8872UT00",
+        "PUBNAME": "USA TODAY",
+        "RGB": "",
+        "K": "",
+        "W": ""
+    },
+    {
+        "PUBBRAND": "1089TA00",
+        "PUBNAME": "Visalia Times Delta",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TD_visaliaTimesDelta_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TD_visaliaTimesDelta_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TD_visaliaTimesDelta_W.png"
+    },
+    {
+        "PUBBRAND": "1089TD00",
+        "PUBNAME": "Visalia Times-Delta",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/TD_visaliaTimesDelta_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/4/TD_visaliaTimesDelta_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/TD_visaliaTimesDelta_W.png"
+    },
+    {
+        "PUBBRAND": "1014DH00",
+        "PUBNAME": "Wausau Daily Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DH_dailyHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DH_dailyHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DH_dailyHerald_W.png"
+    },
+    {
+        "PUBBRAND": "1014ZW00",
+        "PUBNAME": "Wausau Daily Herald",
+        "RGB": "http://image.exct.net/lib/fef3167976610d/m/4/DH_dailyHerald_RGB.png",
+        "K": "http://image.exct.net/lib/fef3167976610d/m/5/DH_dailyHerald_K.png",
+        "W": "http://image.exct.net/lib/fef3167976610d/m/5/DH_dailyHerald_W.png"
+    },
+    {
+        "PUBBRAND": "MISC",
+        "LOGOS": [
+            "http://image.exct.net/lib/fef3167976610d/m/4/appleAppStore.png",
+            "http://image.exct.net/lib/fef3167976610d/m/4/googlePlay.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/facebook_RGB.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/facebook_K.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/facebook_W.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/linkedin_RGB.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/linkedin_K.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/linkedin_W.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/rss_RGB.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/rss_K.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/rss_W.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/twitter_RGB.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/twitter_K.png",
+            "http://image.exct.net/lib/fef3167976610d/m/6/twitter_W.png"
+        ]
+    }
+]
