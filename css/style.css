@@ -7,3 +7,13 @@ img {
 button:focus {
   outline: 0 !important;
 }
+.jumbotron {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  color: inherit;
+  background-color: #eee;
+}
+h3{
+  margin-top: 10px;
+}
