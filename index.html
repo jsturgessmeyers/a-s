@@ -71,9 +71,10 @@
 
         <!-- UL for ATVAL data -->
         <ul class="list-unstyled">
-          <li><h2><strong><u>{{site.PUBNAME}}</u></strong></h2></li>
+          <li><h3><strong><u>{{site.PUBNAME}}</u></strong></h3></li>
           <li><strong>Pub Brands: </strong><span ng-repeat="site in sites | filter:site.PUBNAME">{{site.PUBBRAND}} </span></li>
           <li><strong>URL: </strong>{{site.PUBURL}}</li>
+          <li><strong>URLDisp: </strong>{{site.PUBURLDISP}}</li>
           <li><strong>Location: </strong>{{site.PUBPCITY}}, {{site.PUBSTATE}}</li>
           <li><strong>Twitter: </strong>{{site.TWITTERURL}}</li>
           <li><strong>RSS: </strong>{{site.RSSURL}}</li>
@@ -81,6 +82,8 @@
           <li><strong>CS Email: </strong>{{site.CSEMAIL}}</li>
           <li><strong>CS Phone: </strong>{{site.CSPHONE}}</li>
           <li><strong>CS Chat: </strong>{{site.CSCHAT}}</li>
+          <li><strong>Print Lockup: </strong>{{site.LOCKUPC72}}</li>
+          <li><strong>Digital Lockup: </strong>{{site.LOCKUPF72}}</li>
 
           <!-- Loop to display other properties from ATVAL -->
           <li ng-show="customTerms.length">
@@ -108,6 +111,15 @@
         <!-- UL for site logos -->
         <ul class="list-unstyled" ng-repeat="logo in logos | filter:site.PUBBRAND">
           <li><h4><strong><u>Logos</u></strong></h4></li>
+          <li ng-show="logo.RGB"><strong>RGB:</strong> {{logo.RGB}}</li>
+          <li ng-show="logo.K"><strong>K:</strong> {{logo.K}}</li>
+          <li ng-show="logo.W"><strong>W:</strong> {{logo.W}}</li>
+        </ul><!-- /Logos UL -->
+      </div>
+      <!-- Logos with preview option -->
+      <!-- <div class="row">
+        <ul class="list-unstyled" ng-repeat="logo in logos | filter:site.PUBBRAND">
+          <li><h4><strong><u>Logos</u></strong></h4></li>
           <li ng-show="logo.RGB">
             <strong>RGB:</strong> <a href="" ng-click="setContent(logo.RGB)">{{logo.RGB}}</a>
           </li>
@@ -117,8 +129,8 @@
           <li ng-show="logo.W">
             <strong>W:</strong> <a href="" ng-click="setContent(logo.W)">{{logo.W}}</a>
           </li>
-        </ul><!-- /Logos UL -->
-      </div>
+        </ul>
+      </div> -->
     </div>
   </div>
 
